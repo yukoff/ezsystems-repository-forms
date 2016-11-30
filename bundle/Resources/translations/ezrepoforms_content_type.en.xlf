@@ -359,11 +359,11 @@
       </trans-unit>
       <trans-unit id="eabef9188c4e99400fcd41322800e016" resname="field_definition.ezselection.add_option">
         <source>field_definition.ezselection.add_option</source>
-        <target>__field_definition.ezselection.add_option</target>
+        <target>Add an option</target>
       </trans-unit>
       <trans-unit id="685422f9782165efa0b255fcbd943273" resname="field_definition.ezselection.remove_selected_options">
         <source>field_definition.ezselection.remove_selected_options</source>
-        <target>__field_definition.ezselection.remove_selected_options</target>
+        <target>Remove selected options</target>
       </trans-unit>
     </body>
   </file>
