@@ -9,13 +9,13 @@
         }
     ],
     "require": {
-        "php": "~5.6|~7.0",
-        "ezsystems/ezpublish-kernel": "^6.7",
-        "symfony/symfony": "^2.8 | ^3.0",
+        "php": "^5.6|^7.0",
+        "ezsystems/ezpublish-kernel": "^6.7|^7.0",
+        "symfony/symfony": "^2.8|^3.0",
         "jms/translation-bundle": "^1.3"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.7",
+        "phpunit/phpunit": "^4.7",
         "matthiasnoback/symfony-dependency-injection-test": "^0.7",
         "behat/behat": "^3.0"
     },
@@ -35,7 +35,8 @@
         "_ezplatform_branch_for_behat_tests_comment_": "ezplatform branch to use to run Behat tests",
         "_ezplatform_branch_for_behat_tests": "master",
         "branch-alias": {
-            "dev-master": "1.7.x-dev"
+            "dev-master": "1.7.x-dev",
+            "dev-fos_http_cache_2.0": "1.7.x-dev"
         }
     },
     "config": {
